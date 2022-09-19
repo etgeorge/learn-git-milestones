@@ -287,7 +287,7 @@ Item # | Description | Completed
 2b | Link to [commit #2 from Github Desktop](https://github.com/etgeorge/learn-git-milestones/commit/5707902f29cadc34d41e8b5f71c80d03d8d0ccb5) |
 2c | Full path to your working directory | /c/Users/ejgeo/Sites/critical-web-design/learn-git-milestones
 
-2d | Link to `commit #3 from CLI` |
+2d | Link to [commit #3 from CLI](https://github.com/etgeorge/learn-git-milestones/commit/4d7d09795e9bdab76e37d61468af6f5ce55d2f59) | 
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
