@@ -290,7 +290,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | :disappointed:
 2f | Link to [commit #4 from Atom](https://github.com/etgeorge/learn-git-milestones/commit/7444e2ded972ff342a76668a0670b5af32760ca7) | 
 3a | Link to [my-awesome-project](https://github.com/etgeorge/my-awesome-project) github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to [my-awesome-project](https://etgeorge.github.io/my-awesome-project/) github.io "project site" |
 
 
 
