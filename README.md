@@ -282,8 +282,8 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | :expressionless:
 1b | Link to [commit #1 from Github.com](https://github.com/etgeorge/learn-git-milestones/commit/932afa50bb4fec850d70db52019e83dfeaa49232) |
 1c | Link to [markdown tables docs](https://www.markdownguide.org/extended-syntax/) |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
+1d | What does `log` do? | Shows list of commits
+2a | 2nd Favorite emoji | :satisfied:
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
