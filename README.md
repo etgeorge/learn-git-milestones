@@ -280,7 +280,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | :expressionless:
-1b | Link to [`commit #1 from Github.com`](https://github.com/etgeorge/learn-git-milestones/commit/932afa50bb4fec850d70db52019e83dfeaa49232) |
+1b | Link to [commit #1 from Github.com](https://github.com/etgeorge/learn-git-milestones/commit/932afa50bb4fec850d70db52019e83dfeaa49232) |
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
