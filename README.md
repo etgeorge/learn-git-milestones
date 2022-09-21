@@ -279,15 +279,15 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | &0x3A
+1a | 1st Favorite emoji | 😐
 1b | Link to [commit #1 from Github.com](https://github.com/etgeorge/learn-git-milestones/commit/932afa50bb4fec850d70db52019e83dfeaa49232) |
 1c | Link to [markdown tables docs](https://www.markdownguide.org/extended-syntax/) |
 1d | What does `log` do? | Shows list of commits
-2a | 2nd Favorite emoji | :satisfied:
+2a | 2nd Favorite emoji | 😫
 2b | Link to [commit #2 from Github Desktop](https://github.com/etgeorge/learn-git-milestones/commit/5707902f29cadc34d41e8b5f71c80d03d8d0ccb5) |
 2c | Full path to your working directory | /c/Users/ejgeo/Sites/critical-web-design/learn-git-milestones
 2d | Link to [commit #3 from CLI](https://github.com/etgeorge/learn-git-milestones/commit/4d7d09795e9bdab76e37d61468af6f5ce55d2f59) | 
-2e | 3rd Favorite emoji | :disappointed:
+2e | 3rd Favorite emoji | 😁
 2f | Link to [commit #4 from Atom](https://github.com/etgeorge/learn-git-milestones/commit/7444e2ded972ff342a76668a0670b5af32760ca7) | 
 3a | Link to [my-awesome-project](https://github.com/etgeorge/my-awesome-project) github.com repo page |
 4a | Link to [my-awesome-project](https://etgeorge.github.io/my-awesome-project/) github.io "project site" |
